@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# Replit
+.replit
+replit.nix
+.ccls-chace
